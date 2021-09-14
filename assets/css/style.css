@@ -21,12 +21,12 @@ body {
 }
 
 a {
-  color: #ffc451;
+  color: #82D173;
   text-decoration: none;
 }
 
 a:hover {
-  color: #ffd584;
+  color: #4AA937;
   text-decoration: none;
 }
 
@@ -44,7 +44,7 @@ h1, h2, h3, h4, h5, h6 {
   right: 15px;
   bottom: 15px;
   z-index: 996;
-  background: #ffc451;
+  background: #82D173;
   width: 40px;
   height: 40px;
   border-radius: 4px;
@@ -62,7 +62,7 @@ h1, h2, h3, h4, h5, h6 {
 }
 
 .back-to-top:hover i {
-  color: #ffc451;
+  color: #82D173;
 }
 
 .back-to-top.active {
@@ -89,7 +89,7 @@ h1, h2, h3, h4, h5, h6 {
   position: fixed;
   top: calc(50% - 0px);
   left: calc(50% - 30px);
-  border: 6px solid #ffc451;
+  border: 6px solid #82D173;
   border-top-color: #151515;
   border-bottom-color: #151515;
   border-radius: 50%;
@@ -154,7 +154,7 @@ h1, h2, h3, h4, h5, h6 {
 }
 
 #header .logo a span {
-  color: #ffc451;
+  color: #82D173;
 }
 
 #header .logo img {
@@ -172,7 +172,7 @@ h1, h2, h3, h4, h5, h6 {
   transition: 0.3s;
   font-size: 14px;
   display: inline-block;
-  border: 2px solid #ffc451;
+  border: 2px solid #82D173;
 }
 
 .get-started-btn:hover {
@@ -228,7 +228,7 @@ h1, h2, h3, h4, h5, h6 {
 }
 
 .navbar a:hover, .navbar .active, .navbar .active:focus, .navbar li:hover > a {
-  color: #ffc451;
+  color: #82D173;
 }
 
 .navbar .dropdown ul {
@@ -263,7 +263,7 @@ h1, h2, h3, h4, h5, h6 {
 }
 
 .navbar .dropdown ul a:hover, .navbar .dropdown ul .active:hover, .navbar .dropdown ul li:hover > a {
-  background-color: #ffc451;
+  background-color: #82D173;
 }
 
 .navbar .dropdown:hover > ul {
@@ -354,7 +354,7 @@ h1, h2, h3, h4, h5, h6 {
 
 .navbar-mobile a:hover, .navbar-mobile .active, .navbar-mobile li:hover > a {
   color: #151515;
-  background-color: #ffc451;
+  background-color: #82D173;
 }
 
 .navbar-mobile .getstarted {
@@ -387,7 +387,7 @@ h1, h2, h3, h4, h5, h6 {
 }
 
 .navbar-mobile .dropdown ul a:hover, .navbar-mobile .dropdown ul .active:hover, .navbar-mobile .dropdown ul li:hover > a {
-  background-color: #ffc451;
+  background-color: #82D173;
 }
 
 .navbar-mobile .dropdown > .dropdown-active {
@@ -431,7 +431,7 @@ h1, h2, h3, h4, h5, h6 {
 }
 
 #hero h1 span {
-  color: #ffc451;
+  color: #82D173;
 }
 
 #hero h2 {
@@ -451,7 +451,7 @@ h1, h2, h3, h4, h5, h6 {
 #hero .icon-box i {
   font-size: 32px;
   line-height: 1;
-  color: #ffc451;
+  color: #82D173;
 }
 
 #hero .icon-box h3 {
@@ -469,11 +469,11 @@ h1, h2, h3, h4, h5, h6 {
 }
 
 #hero .icon-box h3 a:hover {
-  color: #ffc451;
+  color: #82D173;
 }
 
 #hero .icon-box:hover {
-  border-color: #ffc451;
+  border-color: #82D173;
 }
 
 @media (min-width: 1024px) {
@@ -563,7 +563,7 @@ section {
   font-size: 20px;
   left: 0;
   top: -3px;
-  color: #ffc451;
+  color: #82D173;
 }
 
 .about .content p:last-child {
@@ -602,7 +602,7 @@ section {
 }
 
 .clients .swiper-pagination .swiper-pagination-bullet-active {
-  background-color: #ffc451;
+  background-color: #82D173;
 }
 
 /*--------------------------------------------------------------
@@ -625,7 +625,7 @@ section {
 .features .icon-box i {
   font-size: 48px;
   float: left;
-  color: #ffc451;
+  color: #82D173;
 }
 
 .features .icon-box p {
@@ -656,7 +656,7 @@ section {
   margin: 0 auto;
   width: 64px;
   height: 64px;
-  background: #ffc451;
+  background: #82D173;
   border-radius: 4px;
   display: flex;
   align-items: center;
@@ -683,7 +683,7 @@ section {
 }
 
 .services .icon-box h4 a:hover {
-  color: #ffc451;
+  color: #82D173;
 }
 
 .services .icon-box p {
@@ -732,8 +732,8 @@ section {
 }
 
 .cta .cta-btn:hover {
-  background: #ffc451;
-  border-color: #ffc451;
+  background: #82D173;
+  border-color: #82D173;
   color: #151515;
 }
 
@@ -767,7 +767,7 @@ section {
 
 .portfolio #portfolio-flters li:hover, .portfolio #portfolio-flters li.filter-active {
   color: #151515;
-  background: #ffc451;
+  background: #82D173;
 }
 
 .portfolio #portfolio-flters li:last-child {
@@ -844,7 +844,7 @@ section {
 }
 
 .portfolio .portfolio-wrap .portfolio-links a:hover {
-  color: #ffc451;
+  color: #82D173;
 }
 
 .portfolio .portfolio-wrap:hover::before {
@@ -880,11 +880,11 @@ section {
   height: 12px;
   background-color: #fff;
   opacity: 1;
-  border: 1px solid #ffc451;
+  border: 1px solid #82D173;
 }
 
 .portfolio-details .portfolio-details-slider .swiper-pagination .swiper-pagination-bullet-active {
-  background-color: #ffc451;
+  background-color: #82D173;
 }
 
 .portfolio-details .portfolio-info {
@@ -949,7 +949,7 @@ section {
 .counts .content .count-box i {
   display: block;
   font-size: 36px;
-  color: #ffc451;
+  color: #82D173;
   float: left;
 }
 
@@ -1092,7 +1092,7 @@ section {
 }
 
 .testimonials .swiper-pagination .swiper-pagination-bullet-active {
-  background-color: #ffc451;
+  background-color: #82D173;
   opacity: 1;
 }
 
@@ -1156,7 +1156,7 @@ section {
 
 .team .member .social a:hover {
   color: #151515;
-  background: #ffc451;
+  background: #82D173;
 }
 
 .team .member .social i {
@@ -1204,7 +1204,7 @@ section {
 
 .contact .info i {
   font-size: 20px;
-  background: #ffc451;
+  background: #82D173;
   color: #151515;
   float: left;
   width: 44px;
@@ -1294,7 +1294,7 @@ section {
 }
 
 .contact .php-email-form input:focus, .contact .php-email-form textarea:focus {
-  border-color: #ffc451;
+  border-color: #82D173;
 }
 
 .contact .php-email-form input {
@@ -1306,7 +1306,7 @@ section {
 }
 
 .contact .php-email-form button[type="submit"] {
-  background: #ffc451;
+  background: #82D173;
   border: 0;
   padding: 10px 24px;
   color: #151515;
@@ -1415,7 +1415,7 @@ section {
 }
 
 #footer .footer-top .footer-info h3 span {
-  color: #ffc451;
+  color: #82D173;
 }
 
 #footer .footer-top .footer-info p {
@@ -1442,7 +1442,7 @@ section {
 }
 
 #footer .footer-top .social-links a:hover {
-  background: #ffc451;
+  background: #82D173;
   color: #151515;
   text-decoration: none;
 }
@@ -1467,7 +1467,7 @@ section {
 
 #footer .footer-top .footer-links ul i {
   padding-right: 2px;
-  color: #ffc451;
+  color: #82D173;
   font-size: 18px;
   line-height: 1;
 }
@@ -1490,7 +1490,7 @@ section {
 }
 
 #footer .footer-top .footer-links ul a:hover {
-  color: #ffc451;
+  color: #82D173;
 }
 
 #footer .footer-top .footer-newsletter form {
@@ -1516,7 +1516,7 @@ section {
   background: none;
   font-size: 16px;
   padding: 0 20px;
-  background: #ffc451;
+  background: #82D173;
   color: #151515;
   transition: 0.3s;
   border-radius: 0 4px 4px 0;
