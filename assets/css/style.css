@@ -12,8 +12,15 @@ colored-cs {
   color: #FF0000;
 }
 
-
+header-icon-box {
+	font-family: "Raleway", sans-serif;
+	color: #FFFFFF;
 }
+
+cmc-note {
+	font-size: 13px;
+}
+
 
 body {
   font-family: "Open Sans", sans-serif;
