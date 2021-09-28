@@ -9,11 +9,14 @@
 # General
 --------------------------------------------------------------*/
 colored-cs {
-  color: #248012;
+  color: #4CB944;
+    font-weight: bold;
+
 }
 
 header-icon-box {
 	font-family: "Raleway", sans-serif;
+	font-size: 12 px;
 	color: #FFFFFF;
 }
 
@@ -467,7 +470,7 @@ h1, h2, h3, h4, h5, h6 {
   margin: 10px 0 0 0;
   padding: 0;
   line-height: 1;
-  font-size: 20px;
+  font-size: 23px;
   line-height: 26px;
 }
 
