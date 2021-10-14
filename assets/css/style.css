@@ -11,7 +11,11 @@
 colored-cs {
   color: #4CB944;
     font-weight: bold;
+}
 
+copyright-text {
+	font-size: 12px;
+	color: #A9A9A9;
 }
 
 colored-header {
@@ -19,11 +23,9 @@ colored-header {
 }
 
 h4-variant {
-    font-size: 20 px;
+    font-size: 20px;
 
 }
-
-
 
 h5 {
 	color: #FFFFFF
@@ -31,13 +33,12 @@ h5 {
 
 header-icon-box {
 	font-family: "Raleway", sans-serif;
-	font-size: 12 px;
 	color: #FFFFFF;
 }
 
 cmc-note {
 	font-family: "Raleway", sans-serif;
-	font-size: 9 px;
+	font-size: 15px;
 	color: #A9A9A9;
 }
 
