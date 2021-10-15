@@ -14,7 +14,7 @@ colored-cs {
 }
 
 copyright-text {
-	font-size: 12px;
+	font-size: 11px;
 	color: #A9A9A9;
 }
 
@@ -38,7 +38,13 @@ header-icon-box {
 
 cmc-note {
 	font-family: "Raleway", sans-serif;
-	font-size: 15px;
+	font-size: 14px;
+	color: #A9A9A9;
+}
+
+copyright-note {
+	font-family: "Raleway", sans-serif;
+	font-size: 12px;
 	color: #A9A9A9;
 }
 
