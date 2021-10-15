@@ -14,12 +14,14 @@ colored-cs {
 }
 
 copyright-text {
-	font-size: 11px;
+	font-size: 12px;
 	color: #A9A9A9;
 }
 
 colored-header {
   color: #82D173;
+    font-size: 40px;
+
 }
 
 h4-variant {
@@ -34,6 +36,7 @@ h5 {
 header-icon-box {
 	font-family: "Raleway", sans-serif;
 	color: #FFFFFF;
+    font-size: 16px;
 }
 
 cmc-note {
@@ -44,7 +47,7 @@ cmc-note {
 
 logo-note {
 	font-family: "Raleway", sans-serif;
-	font-size: 12px;
+	font-size: 18px;
 	color: #A9A9A9;
 }
 
@@ -433,7 +436,7 @@ h1, h2, h3, h4, h5, h6 {
 --------------------------------------------------------------*/
 #hero {
   width: 100%;
-  height: 100vh;
+  height: 105vh;
   background: url("../img/hero-bg.jpg") top center;
   background-size: cover;
   position: relative;
@@ -608,7 +611,7 @@ section {
 # Clients
 --------------------------------------------------------------*/
 .clients {
-  padding-top: 20px;
+  padding-top: 10px;
 }
 
 .clients .swiper-slide img {
@@ -623,7 +626,7 @@ section {
 }
 
 .clients .swiper-pagination {
-  margin-top: 20px;
+  margin-top: 10px;
   position: relative;
 }
 
