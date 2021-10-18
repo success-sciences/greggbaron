@@ -616,7 +616,7 @@ section {
 # Clients
 --------------------------------------------------------------*/
 .clients {
-  padding-top: 10px;
+  padding-top: 20px;
 }
 
 .clients .swiper-slide img {
@@ -631,7 +631,7 @@ section {
 }
 
 .clients .swiper-pagination {
-  margin-top: 10px;
+  margin-top: 20px;
   position: relative;
 }
 
