@@ -204,7 +204,7 @@ h1, h2, h3, h4, h5, h6 {
 }
 
 /*--------------------------------------------------------------
-#  Get Startet Button
+#  Get Started Button
 --------------------------------------------------------------*/
 .get-started-btn {
   color: #fff;
@@ -620,7 +620,7 @@ section {
 }
 
 .clients .swiper-slide img {
-  transition: 0.2s;
+  transition: 0.3s;
   /*opacity: 0.5;
   filter: grayscale(100);*/
 }
