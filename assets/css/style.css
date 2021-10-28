@@ -24,8 +24,8 @@ colored-header {
 
 }
 
-white-text {
-	color: #FFFFFF
+h3-variant {
+    color: #fff;
 }
 
 h4-variant {
@@ -203,7 +203,7 @@ h1, h2, h3, h4, h5, h6 {
 }
 
 #header .logo img {
-  max-height: 75px;
+  max-height: 105px;
 }
 
 /*--------------------------------------------------------------
@@ -518,6 +518,7 @@ h1, h2, h3, h4, h5, h6 {
 }
 
 #hero .icon-box:hover {
+  border-color: #82D173;
 }
 
 @media (min-width: 1024px) {
