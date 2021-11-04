@@ -621,11 +621,11 @@ section {
 # Clients
 --------------------------------------------------------------*/
 .clients {
-  padding-top: 20px;
+  padding-top: 18px;
 }
 
 .clients .swiper-slide img {
-  transition: 0.3s;
+  transition: 0.1s;
   /*opacity: 0.5;
   filter: grayscale(100);*/
 }
@@ -636,7 +636,7 @@ section {
 }
 
 .clients .swiper-pagination {
-  margin-top: 20px;
+  margin-top: 18px;
   position: relative;
 }
 
