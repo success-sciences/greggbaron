@@ -625,7 +625,7 @@ section {
 }
 
 .clients .swiper-slide img {
-  transition: 0.1s;
+  transition-duration: 0.3s;
   /*opacity: 0.5;
   filter: grayscale(100);*/
 }
