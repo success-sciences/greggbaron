@@ -63,6 +63,11 @@ logo-note {
 	color: #A9A9A9;
 }
 
+endorsement-note {
+	font-family: "Raleway", sans-serif;
+	font-size: 16px;
+	color: #FFFFFF;
+}
 
 body {
   font-family: "Open Sans", sans-serif;
@@ -1476,7 +1481,7 @@ section {
 #footer .footer-top .social-links a {
   font-size: 18px;
   display: inline-block;
-  background: #292929;
+  background: #2867B2;
   color: #fff;
   line-height: 1;
   padding: 8px 0;
